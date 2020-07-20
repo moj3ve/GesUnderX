@@ -1,0 +1,9 @@
+Package: com.hius.gesunderx
+Name: GesUnderX
+Depends: mobilesubstrate
+Version: 1.3.0
+Architecture: iphoneos-arm
+Description: iPhone X Gestures, Status Bar X Calibrate,...
+Maintainer: Hius
+Author: Hius
+Section: Tweaks
